@@ -1,0 +1,180 @@
+.login {
+	margin: 20px auto;
+	width: 450px;
+	padding: 50px 25px;
+	background: #29A887;
+	border: 2px solid #f70f0f;
+}
+
+.login-title {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin: -28px -25px 25px;
+	padding: 5px 15px;
+	line-height: 30px;
+	font-size: 25px;
+	font-weight: 300;
+	color: #1134A6;
+	text-align: center;
+	background: #29A887;
+}
+
+.login-input {
+	width: 270px;
+	height: 50px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+	font-size: 15px;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+}
+
+.login-output {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	width: 300px;
+	height: 50px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+	font-size: 15px;
+}
+
+.login-dropdown {
+	width: 280px;
+	height: 50px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+	font-size: 15px;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.login-input:focus {
+	border-color: #6e8095;
+	outline: none;
+}
+
+.login-button {
+	width: 300px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	background: #f0776c;
+	border: 0;
+	border-radius: 3px;
+	margin-top: 15px;
+	cursor: pointer;
+	outline: 0;
+}
+
+.homepage-button {
+	width: 300px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	background: #BF0A30;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+}
+
+
+.mainmenu-button {
+	width: 300px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #BF0A30;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+	margin-bottom: 5px;
+}
+.homepage-h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align:center;
+}
+
+.mainmenu-h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align:center;
+	font-size: 50px;
+	color: #FD6A02;
+}
+
+.commonPages{
+	background:#9DC183
+}
+
+.commonPages-button {
+	width: 150px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #BF0A30;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+	margin-bottom: 5px;
+}
+
+.commonPages-largebutton {
+	width: 250px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #BF0A30;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+	margin-bottom: 5px;
+}
+
+.commonPages-commonbutton {
+	width: 150px;
+	height: 50px;
+	padding: 0;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background: #BF0A30;
+	border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+	margin-bottom: 5px;
+}
+
+.commonPages-h1 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align:center;
+	font-size: 30px;
+	color: #FD6A02;
+}
+
+.commonPages-h2 {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	color: #FD6A02;
+}
+
+.commonPages-text {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
